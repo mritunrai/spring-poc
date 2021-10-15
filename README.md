@@ -1,5 +1,7 @@
 # spring-boot
 
+Java Spring Boot (Spring Boot) is a tool that makes developing web application and microservices with Spring Framework faster and easier through three core capabilities: Autoconfiguration. An opinionated approach to configuration. The ability to create standalone applications
+
 ## About Mockito and WireMock
 What is Mocking ?
 Mocks is nothing but an imitation. It simulates behaviour of a real component but in a more controlled manner.
